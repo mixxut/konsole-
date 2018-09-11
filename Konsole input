@@ -1,30 +1,30 @@
-(!DOCTYPE html)
+<!DOCTYPE html>
 <body>
 
-<form>
+<hr>
+<h1 style="font-family:Monaco;">Welcome to the Konsole<hr1/>
+<hr/>
 
 
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br>
+
+<form action="/action_page.php" target="_self">
+  <br>
+  <input type="text">
+  <br>
+</form>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<form/>
 
 
 <body/>
